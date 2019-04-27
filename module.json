@@ -1,13 +1,11 @@
 {
-	"disableAutoUpdate": false,
-	"name": "Castanic-Male-White-Hair ",
-	"category": "client",
-	"description": "This mod will alter other colors making them brighter/improving pastels.",
-	"author": "Raven",
-	"options": {
-		"niceName": "Castanic Male White Hair "
-	},
-	"servers": [
-		"https://raw.githubusercontent.com/RavenMods/Castanic-Male-White-Hair"
-	]
+    "disableAutoUpdate": false,
+    "name": "Castanic-Male-White-Hair ",
+    "category": "client",
+    "description": "This mod will alter other colors making them brighter/improving pastels.",
+    "author": "Raven",
+    "options": {
+        "niceName": "Castanic Male White Hair "
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Castanic-Male-White-Hair"]
 }
